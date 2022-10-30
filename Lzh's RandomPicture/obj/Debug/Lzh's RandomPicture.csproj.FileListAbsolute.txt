@@ -1,0 +1,11 @@
+E:\UserLzhjk\Documents\VSProject\random-picture-master\Lzh's RandomPicture\bin\Debug\Lzh's RandomPicture.exe.config
+E:\UserLzhjk\Documents\VSProject\random-picture-master\Lzh's RandomPicture\bin\Debug\Lzh's RandomPicture.exe
+E:\UserLzhjk\Documents\VSProject\random-picture-master\Lzh's RandomPicture\bin\Debug\Lzh's RandomPicture.pdb
+E:\UserLzhjk\Documents\VSProject\random-picture-master\Lzh's RandomPicture\obj\Debug\Lzh's RandomPicture.csproj.AssemblyReference.cache
+E:\UserLzhjk\Documents\VSProject\random-picture-master\Lzh's RandomPicture\obj\Debug\Lzh's RandomPicture.csproj.SuggestedBindingRedirects.cache
+E:\UserLzhjk\Documents\VSProject\random-picture-master\Lzh's RandomPicture\obj\Debug\Lzh_s_RandomPicture.Form1.resources
+E:\UserLzhjk\Documents\VSProject\random-picture-master\Lzh's RandomPicture\obj\Debug\Lzh_s_RandomPicture.Properties.Resources.resources
+E:\UserLzhjk\Documents\VSProject\random-picture-master\Lzh's RandomPicture\obj\Debug\Lzh's RandomPicture.csproj.GenerateResource.cache
+E:\UserLzhjk\Documents\VSProject\random-picture-master\Lzh's RandomPicture\obj\Debug\Lzh's RandomPicture.csproj.CoreCompileInputs.cache
+E:\UserLzhjk\Documents\VSProject\random-picture-master\Lzh's RandomPicture\obj\Debug\Lzh's RandomPicture.exe
+E:\UserLzhjk\Documents\VSProject\random-picture-master\Lzh's RandomPicture\obj\Debug\Lzh's RandomPicture.pdb

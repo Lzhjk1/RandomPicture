@@ -1,0 +1,2 @@
+LZH=http://cn-zj-bgp-3.sakurafrp.com:18750/
+ZWY=http://jp-tyo-dvm-2.sakurafrp.com:14278/
